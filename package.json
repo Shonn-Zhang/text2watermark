@@ -1,0 +1,13 @@
+{
+  "name": "text2watermark",
+  "version": "1.0.6",
+  "main": "index.js",
+  "author": "wen <571047994@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "images": "^3.2.3",
+    "path": "^0.12.7",
+    "sharp": "^0.29.3",
+    "text2svg": "^1.0.0"
+  }
+}
